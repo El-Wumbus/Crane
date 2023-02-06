@@ -1,0 +1,10 @@
+xsel # command-line-clipboard manipulation
+i3-gaps
+i3status
+rofi
+thunar
+vlc
+alacritty
+picom
+rofi
+sxhkd
